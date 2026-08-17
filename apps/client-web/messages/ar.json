@@ -1,0 +1,35 @@
+{
+  "common": {
+    "appName": "نظام تتبع المركبات",
+    "welcome": "مرحباً",
+    "secureAccess": "دخول آمن إلى حساب تتبع المركبة",
+    "platformName": "منصة تتبع المركبات"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "username": "المعرف أو اسم المستخدم",
+    "password": "كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور",
+    "loginButton": "تسجيل الدخول",
+    "rememberMe": "تذكر معلومات تسجيل الدخول",
+    "showPassword": "إظهار كلمة المرور",
+    "hidePassword": "إخفاء كلمة المرور",
+    "invalidCredentials": "المعرف أو كلمة المرور غير صحيحة.",
+    "loginError": "حدث خطأ. يرجى المحاولة مرة أخرى."
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "currentPosition": "الموقع الحالي",
+    "currentPositionDescription": "عرض الموقع الحالي لمركبتك",
+    "alerts": "التنبيهات",
+    "alertsDescription": "عرض تنبيهات مركبتك",
+    "cutEngine": "إيقاف المحرك",
+    "cutEngineDescription": "إرسال أمر للتحكم في المحرك",
+    "alertAdmin": "إبلاغ المسؤول",
+    "alertAdminDescription": "التواصل مع مسؤول خدمة التتبع"
+  },
+  "language": {
+    "french": "Français",
+    "arabic": "العربية"
+  }
+}

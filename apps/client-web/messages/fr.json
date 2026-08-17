@@ -1,0 +1,35 @@
+{
+  "common": {
+    "appName": "GPS Tracking",
+    "welcome": "Bienvenue",
+    "secureAccess": "Accès sécurisé à votre compte de suivi",
+    "platformName": "Plateforme de suivi GPS"
+  },
+  "auth": {
+    "login": "Connexion",
+    "username": "Identifiant ou nom d'utilisateur",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié",
+    "loginButton": "Se connecter",
+    "rememberMe": "Se souvenir de mes informations",
+    "showPassword": "Afficher le mot de passe",
+    "hidePassword": "Masquer le mot de passe",
+    "invalidCredentials": "Identifiant ou mot de passe incorrect.",
+    "loginError": "Une erreur est survenue. Veuillez réessayer."
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "currentPosition": "Position actuelle",
+    "currentPositionDescription": "Voir la position actuelle de votre véhicule",
+    "alerts": "Alertes",
+    "alertsDescription": "Consulter les alertes de votre véhicule",
+    "cutEngine": "Couper le moteur",
+    "cutEngineDescription": "Envoyer une commande de contrôle du moteur",
+    "alertAdmin": "Alerter l'administrateur",
+    "alertAdminDescription": "Contacter l'administrateur du service de suivi"
+  },
+  "language": {
+    "french": "Français",
+    "arabic": "العربية"
+  }
+}
